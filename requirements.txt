@@ -1,0 +1,10 @@
+python-dotenv
+PyMuPDF
+openai
+slack-sdk
+langchain
+PyPDF2
+faiss-cpu
+tiktoken
+langchain_community
+langchain_openai
